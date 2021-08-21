@@ -1,6 +1,6 @@
  # **Hi, I'm Alessandro** 👋 
 ###  
-![GitHub Logo](image_git.png)
+![GitHub Logo](image_git.jpeg)
 
 ## Who am I? 
 
