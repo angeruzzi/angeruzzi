@@ -23,7 +23,7 @@
 ## **My projects in Data Science**
 
 * [Data Analysis] - Perfil do Profissional de Dados no Brasil (https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR)
-
+* [Competição de ML] - IV Competição Flai de ML: Classificação de Clientes Telecom (https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb)
 
 <!--
 **angeruzzi/angeruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
