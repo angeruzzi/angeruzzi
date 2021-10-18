@@ -23,6 +23,7 @@
 ## **My projects in Data Science**
 
 * [ETL] - Importação e Consolidação dos dados de registros pluviométricos do Brasil (https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb)
+* [Data Analysis] - Produção de Grãos no Brasil de 1976 a 2019 (https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil)
 * [Data Analysis] - Perfil do Profissional de Dados no Brasil (https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR)
 * [Competição de ML] - IV Competição Flai de ML: Classificação de Clientes Telecom (https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb)
 
