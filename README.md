@@ -22,12 +22,29 @@
 
 ## **My projects in Data Science**
 
-* Importação e Consolidação dos dados de registros pluviométricos do Brasil (https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb)
-[ETL]
-* Produção de Grãos no Brasil de 1976 a 2019 (https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil/blob/main/AnaliseDados_ProducaoGraosBrasil.ipynb) [Data Analysis]
-* Predição de Produtividade Agrícola: Amendoim https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola/blob/main/RegressionModel_ProdutividadeAgricola_Amendoin.ipynb [Regressao]
-* Perfil do Profissional de Dados no Brasil (https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR) [Data Analysis]
-* IV Competição Flai de ML: Classificação de Clientes Telecom (https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb) [Competição de ML , Modelo de Classificação]
+* Importação e Consolidação dos dados de registros pluviométricos do Brasil :
+https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb
+Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET 
+[ETL] 
+
+* Análise da Produção de Grãos no Brasil: 
+https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil/blob/main/AnaliseDados_ProducaoGraosBrasil.ipynb) 
+Análise da produção de grãos brasileira de 1976 a 2019 e dos principais estados produtores, foram utilizados dados disponibilizados pela CONAB (série histórica de safra), INMET (Dados Pluviométricos) e BACEN (Financiamento Agroindustrial) [Data Analysis]
+
+* Predição de Produtividade Agrícola Amendoim: 
+https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola/blob/main/RegressionModel_ProdutividadeAgricola_Amendoin.ipynb 
+Análise e construção de um modelo de regressão para predição da produtividade agrícola de Amendoim a partir de dados meteorológicos
+[Modelo de Regressão]
+
+* Perfil do Profissional de Dados no Brasil: 
+Análise dos dados da Pesquisa de 2019 da comunidade Data Hackers sobre o perfil dos profissionais de dados brasileiros
+https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR 
+[Data Analysis]
+
+* IV Competição Flai de ML - Classificação de Clientes Telecom: 
+Modelo construído na IV Competição de ML da comunidade Flai para classificação de perfil de clientes de uma empresa de Telecom, que obteve o 3º lugar
+https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb 
+[Competição de ML , Modelo de Classificação]
 
 <!--
 **angeruzzi/angeruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
