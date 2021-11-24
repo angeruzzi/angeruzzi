@@ -22,10 +22,12 @@
 
 ## **My projects in Data Science**
 
-* [ETL] - Importação e Consolidação dos dados de registros pluviométricos do Brasil (https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb)
-* [Data Analysis] - Produção de Grãos no Brasil de 1976 a 2019 (https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil)
-* [Data Analysis] - Perfil do Profissional de Dados no Brasil (https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR)
-* [Competição de ML] - IV Competição Flai de ML: Classificação de Clientes Telecom (https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb)
+* Importação e Consolidação dos dados de registros pluviométricos do Brasil (https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb)
+[ETL]
+* Produção de Grãos no Brasil de 1976 a 2019 (https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil/blob/main/AnaliseDados_ProducaoGraosBrasil.ipynb) [Data Analysis]
+* Predição de Produtividade Agrícola: Amendoim https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola/blob/main/RegressionModel_ProdutividadeAgricola_Amendoin.ipynb [Regressao]
+* Perfil do Profissional de Dados no Brasil (https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR) [Data Analysis]
+* IV Competição Flai de ML: Classificação de Clientes Telecom (https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb) [Competição de ML , Modelo de Classificação]
 
 <!--
 **angeruzzi/angeruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
