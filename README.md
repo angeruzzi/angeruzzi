@@ -42,7 +42,7 @@ Análise e construção de um modelo de regressão para predição da produtivid
 ### **Perfil do Profissional de Dados no Brasil** : 
 
 Análise dos dados da Pesquisa de 2019 da comunidade Data Hackers sobre o perfil dos profissionais de dados brasileiros
-<br>https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR  [Data Analysis]
+<br>https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR/blob/main/Analise_Explorat%C3%B3ria_Perfil_do_Profissional_de_Dados_BR.ipynb  [Data Analysis]
 <br>
 
 ### **IV Competição Flai de ML - Classificação de Clientes Telecom** : 
