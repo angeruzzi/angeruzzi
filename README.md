@@ -22,9 +22,9 @@
 
 ## **My projects in Data Science**
 
-* Importação e Consolidação dos dados de registros pluviométricos do Brasil :
-Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET 
-[ETL] - https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb
+* **Importação e Consolidação dos dados de registros pluviométricos do Brasil** :
+Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET
+<br>[ETL] - https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb
 
 * Análise da Produção de Grãos no Brasil:  
 Análise da produção de grãos brasileira de 1976 a 2019 e dos principais estados produtores, foram utilizados dados disponibilizados pela CONAB (série histórica de safra), INMET (Dados Pluviométricos) e BACEN (Financiamento Agroindustrial) 
