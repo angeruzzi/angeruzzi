@@ -26,6 +26,7 @@
 
 Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET
 <br>https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb [ETL]
+<br>
 
 ### **Análise da Produção de Grãos no Brasil** : 
 
@@ -45,10 +46,18 @@ Análise dos dados da Pesquisa de 2019 da comunidade Data Hackers sobre o perfil
 <br>https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR/blob/main/Analise_Explorat%C3%B3ria_Perfil_do_Profissional_de_Dados_BR.ipynb  [Data Analysis]
 <br>
 
-### **IV Competição Flai de ML - Classificação de Clientes Telecom** : 
+### **Competições de Machine Learning** :
+
+* #### **IV Competição Flai de ML - Classificação de Clientes Telecom** : 
 
 Modelo construído na IV Competição de ML da comunidade Flai para classificação de perfil de clientes de uma empresa de Telecom, que obteve o 3º lugar
-<br>https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb [Competição de ML , Modelo de Classificação]
+<br>https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb [Modelo de Classificação]
+<br>
+
+* #### **VI Competição Flai de ML - Predição de Turnover** : 
+
+Modelo construído na VI Competição de ML da comunidade Flai para predição de saída de funcionários, que obteve o 2º lugar
+<br>https://github.com/angeruzzi/CompeticoesML/blob/main/6a_Flai_202111_2o_lugar.ipynb [Modelo de Classificação]
 <br>
 
 <!--
