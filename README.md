@@ -5,7 +5,7 @@
 ## Who am I? 
 
 * 👨‍💻 Systems developer
-* 🧑🏻‍🎓 Data Science Student
+* 🧑🏻‍🎓 Data Scientist
 * 👨🏼‍🎓 Bachelor’s degree in Computer Science - UFU.
 * 👨🏼‍🎓 Graduate in TI Management - UNIMINAS.
 
