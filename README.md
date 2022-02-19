@@ -60,6 +60,13 @@ Modelo construído na VI Competição de ML da comunidade Flai para predição d
 <br>https://github.com/angeruzzi/CompeticoesML/blob/main/6a_Flai_202111_2o_lugar.ipynb [Modelo de Classificação]
 <br>
 
+##
+
+<div align="center">
+     <a href="https://github.com/angeruzzi">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angeruzzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+ 
 <!--
 **angeruzzi/angeruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
