@@ -22,6 +22,12 @@
 
 ## **My projects in Data Science**
 
+### 📽️ NLP - Análise de Sentimento de Comentarios de Filmes do IMDB
+
+Um modelo de predição baseado em Análise de Sentimento, que possa avaliar comentários em inglês de filmes e classificá-los como negativos ou positivos.
+<br>https://github.com/angeruzzi/NLP_AnaliseSentimento_ComentariosIMDB [NLP , Modelo de Classificação]
+<br>
+
 ### :droplet: **ETL registros Pluviométricos Brasileiros** :  
 
 Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET
