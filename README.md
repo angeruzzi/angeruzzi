@@ -22,34 +22,39 @@
 
 ## **My projects in Data Science**
 
-### 📽️ NLP - Análise de Sentimento de Comentarios de Filmes do IMDB
+### 📽️ Análise de Sentimento de Comentarios de Filmes do IMDB
+[NLP , Supervised Classification, Sentiment Analysis, scikit-learn]
 
 Um modelo de predição baseado em Análise de Sentimento, que possa avaliar comentários em inglês de filmes e classificá-los como negativos ou positivos.
-<br>https://github.com/angeruzzi/NLP_AnaliseSentimento_ComentariosIMDB [NLP , Modelo de Classificação]
+<br>https://github.com/angeruzzi/NLP_AnaliseSentimento_ComentariosIMDB
 <br>
 
 ### :droplet: **ETL registros Pluviométricos Brasileiros** :  
+[ETL , APIs, SQL]
 
 Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET
-<br>https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb [ETL]
+<br>https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb 
 <br>
 
 ### :ear_of_rice: **Análise da Produção de Grãos no Brasil** : 
+[Data Analysis , Pandas]
 
 Análise da produção de grãos brasileira de 1976 a 2019 e dos principais estados produtores, foram utilizados dados disponibilizados pela CONAB (série histórica de safra), INMET (Dados Pluviométricos) e BACEN (Financiamento Agroindustrial) 
-<br>https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil/blob/main/AnaliseDados_ProducaoGraosBrasil.ipynb [Data Analysis]
+<br>https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil/blob/main/AnaliseDados_ProducaoGraosBrasil.ipynb 
 <br>
 
  ### :seedling: **Predição de Produtividade Agrícola Amendoim** :  
+[Prediction, Regression Model, scikit-learn]
 
 Análise e construção de um modelo de regressão para predição da produtividade agrícola de Amendoim a partir de dados meteorológicos
-<br>https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola/blob/main/RegressionModel_ProdutividadeAgricola_Amendoin.ipynb [Modelo de Regressão]
+<br>https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola/blob/main/RegressionModel_ProdutividadeAgricola_Amendoin.ipynb 
 <br>
 
 ### :clipboard: **Perfil do Profissional de Dados no Brasil** : 
+[Data Analysis , Pandas]
 
 Análise dos dados da Pesquisa de 2019 da comunidade Data Hackers sobre o perfil dos profissionais de dados brasileiros
-<br>https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR/blob/main/Analise_Explorat%C3%B3ria_Perfil_do_Profissional_de_Dados_BR.ipynb  [Data Analysis]
+<br>https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR/blob/main/Analise_Explorat%C3%B3ria_Perfil_do_Profissional_de_Dados_BR.ipynb
 <br>
 
 ### **Competições de Machine Learning** :
