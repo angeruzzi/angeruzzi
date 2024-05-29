@@ -7,7 +7,7 @@
 * 👨‍💻 Systems developer
 * 🧑🏻‍🎓 Data Scientist
 * 👨🏼‍🎓 Bachelor’s degree in Computer Science - UFU.
-* 👨🏼‍🎓 Graduate in TI Management - UNIMINAS.
+* 👨🏼‍🎓 Master's Student in Data Science - UFU 
 
 ## Skills 👩‍💻
 
