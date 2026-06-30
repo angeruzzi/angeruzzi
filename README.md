@@ -4,17 +4,17 @@
 
 ## Who am I? 
 
-* 👨‍💻 Systems developer
 * 🧑🏻‍🎓 Data Scientist
+* 👨‍💻 Systems developer 
 * 👨🏼‍🎓 Bachelor’s degree in Computer Science - UFU.
-* 👨🏼‍🎓 Master's Student in Data Science - UFU 
+* 👨🏼‍🎓 Master's in Data Science - UFU 
 
 ## Skills 👩‍💻
 
-* 🐍 Python.
-* 🗄 SQL.
+* 🐍 Python
+* 🗄 SQL
 * 📊 Data Visualization
-* 🔮 Machine Learning. 
+* 🔮 Machine Learning
 
 ## Find me too in
 
