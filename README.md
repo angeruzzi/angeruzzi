@@ -1,94 +1,147 @@
- # **Hi, I'm Alessandro** 👋 
-###  
-![GitHub Logo](fundo_ds_git.JPG)
+# Hi, I'm Alessandro Angeruzzi
 
-## Who am I? 
+Data Scientist and Technical Lead with a background in software engineering, machine learning, artificial intelligence, and financial technology.
 
-* 🧑🏻‍🎓 Data Scientist
-* 👨‍💻 Systems developer 
-* 👨🏼‍🎓 Bachelor’s degree in Computer Science - UFU.
-* 👨🏼‍🎓 Master's in Data Science - UFU 
+I have experience developing data and AI products, combining data science, software engineering, cloud architecture, and business understanding to transform complex problems into scalable solutions.
 
-## Skills 👩‍💻
+* Lead Data Scientist
+* M.Sc. in Computer Science — Federal University of Uberlândia
+* B.Sc. in Computer Science — Federal University of Uberlândia
+* Background in software development, process automation, and financial systems
+* Interested in Machine Learning, Generative AI, causal inference, NLP, MLOps, and intelligent agents
 
-* 🐍 Python
-* 🗄 SQL
-* 📊 Data Visualization
-* 🔮 Machine Learning
+## Main Skills
 
-## Find me too in
+**Languages and Data**
 
-*  [Linkedin]( https://www.linkedin.com/in/alessandroangeruzzi/ )
+`Python` `SQL` `Pandas` `NumPy` `BigQuery` `PostgreSQL`
 
-## **My projects in Data Science**
+**Machine Learning and Statistics**
 
-### 📽️ Análise de Sentimento de Comentarios de Filmes do IMDB (2022)
-[NLP , Supervised Classification, Sentiment Analysis, scikit-learn]
+`Scikit-learn` `XGBoost` `Classification` `Regression` `Clustering` `Feature Engineering` `Statistical Analysis` `Model Evaluation`
 
-Um modelo de predição baseado em Análise de Sentimento, que possa avaliar comentários em inglês de filmes e classificá-los como negativos ou positivos.
-<br>https://github.com/angeruzzi/NLP_AnaliseSentimento_ComentariosIMDB
-<br>
+**Generative AI**
 
-### :droplet: **ETL registros Pluviométricos Brasileiros (2021)** : 
-[ETL , APIs, SQL]
+`LangChain` `LangGraph` `LLMs` `RAG` `AI Agents` `Prompt Engineering`
 
-Importação de dados de 1970 a 2020 de 1276 estações pluviométricas do Brasil disponibilizados pelo INMET
-<br>https://github.com/angeruzzi/ETL_DadosPluviometricos/blob/main/ETL_DadosPluviometricos.ipynb 
-<br>
+**Engineering and Cloud**
 
-### :ear_of_rice: **Análise da Produção de Grãos no Brasil (2021)** : 
-[Data Analysis , Pandas]
+`Git` `GitHub` `Docker` `GCP` `Vertex AI` `Cloud Run` `Kubernetes` `CI/CD` `MLOps`
 
-Análise da produção de grãos brasileira de 1976 a 2019 e dos principais estados produtores, foram utilizados dados disponibilizados pela CONAB (série histórica de safra), INMET (Dados Pluviométricos) e BACEN (Financiamento Agroindustrial) 
-<br>https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil/blob/main/AnaliseDados_ProducaoGraosBrasil.ipynb 
-<br>
+## Featured Projects
 
- ### :seedling: **Predição de Produtividade Agrícola Amendoim (2021)** :  
-[Prediction, Regression Model, scikit-learn]
+### 2026
 
-Análise e construção de um modelo de regressão para predição da produtividade agrícola de Amendoim a partir de dados meteorológicos
-<br>https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola/blob/main/RegressionModel_ProdutividadeAgricola_Amendoin.ipynb 
-<br>
+#### [AI Agent for Email Triage](https://github.com/angeruzzi/AutoVerifEmail_Langchain)
 
-### :clipboard: **Perfil do Profissional de Dados no Brasil (2021)** : 
-[Data Analysis , Pandas]
+An intelligent agent that collects Gmail messages, analyzes them using an LLM, classifies priority and required actions, applies configurable filters, and sends a daily digest through WhatsApp or email.
 
-Análise dos dados da Pesquisa de 2019 da comunidade Data Hackers sobre o perfil dos profissionais de dados brasileiros
-<br>https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR/blob/main/Analise_Explorat%C3%B3ria_Perfil_do_Profissional_de_Dados_BR.ipynb
-<br>
+The workflow is orchestrated as a state graph with validation, conditional routing, retries, critical-email alerts, and notification fallback.
 
-### **Competições de Machine Learning** :
+**Technologies:** `Python` `LangChain` `LangGraph` `OpenAI` `Gmail API` `WhatsApp API` `Docker`
 
-* #### :telephone_receiver: **IV Competição Flai de ML - Classificação de Clientes Telecom (2021)** : 
+---
 
-Modelo construído na IV Competição de ML da comunidade Flai para classificação de perfil de clientes de uma empresa de Telecom, que obteve o 3º lugar
-<br>https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb [Modelo de Classificação]
-<br>
+### 2025
 
-* #### :raising_hand: **VI Competição Flai de ML - Predição de Turnover (2021)** : 
+#### [Longitudinal Synthetic Data Generation from Causal Structures](https://github.com/angeruzzi/causal-synthetic-data-gen)
 
-Modelo construído na VI Competição de ML da comunidade Flai para predição de saída de funcionários, que obteve o 2º lugar
-<br>https://github.com/angeruzzi/CompeticoesML/blob/main/6a_Flai_202111_2o_lugar.ipynb [Modelo de Classificação]
-<br>
+A Python-based tool developed as part of my master's research for generating synthetic longitudinal datasets from configurable causal structures.
 
-##
+The project supports factual and counterfactual trajectory generation, autoregressive temporal dynamics, nonlinear relationships, multiple intervention strategies, and different causal structures.
 
-<div align="center">
-     <a href="https://github.com/angeruzzi">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=angeruzzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
- 
-<!--
-**angeruzzi/angeruzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It was designed to support the evaluation and benchmarking of causal inference and time-series models.
 
-Here are some ideas to get you started:
+**Technologies and concepts:** `Python` `NumPy` `Synthetic Data` `Causal Inference` `Structural Causal Models` `Counterfactuals` `Time Series`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 2024
+
+#### Clustering Algorithms from Scratch
+
+Educational implementations created to explore the mathematical and computational foundations of clustering algorithms without relying on ready-made implementations from machine learning libraries.
+
+##### [K-Means from Scratch](https://github.com/angeruzzi/kmeans_from_scratch)
+
+Implementation of the K-Means clustering algorithm, including centroid initialization, iterative cluster assignment, centroid updates, convergence control, and CSV result generation.
+
+**Concepts:** `Partitional Clustering` `Centroids` `Euclidean Distance` `Iterative Optimization`
+
+##### [Single Link from Scratch](https://github.com/angeruzzi/singlelink_from_scratch)
+
+Implementation of hierarchical agglomerative clustering using the Single Link criterion, which merges clusters according to the shortest distance between their observations.
+
+The project generates the sequence of cluster merges and the resulting hierarchy levels.
+
+**Concepts:** `Hierarchical Clustering` `Agglomerative Clustering` `Single Linkage` `Distance Matrix`
+
+##### [Silhouette and SSWC from Scratch](https://github.com/angeruzzi/silhouette_sswc_from_scratch)
+
+Implementation of clustering validation metrics used to evaluate cohesion within clusters and separation between different clusters.
+
+**Concepts:** `Cluster Validation` `Silhouette Score` `Cohesion` `Separation` `Distance Metrics`
+
+> These implementations have educational purposes and focus on understanding how the algorithms work internally. For production applications, optimized implementations such as those available in Scikit-learn are recommended.
+
+---
+
+### 2022
+
+#### [Sentiment Analysis of IMDb Movie Reviews](https://github.com/angeruzzi/NLP_AnaliseSentimento_ComentariosIMDB)
+
+A supervised machine learning model for classifying English-language movie reviews as positive or negative.
+
+**Technologies and concepts:** `Python` `NLP` `Sentiment Analysis` `Text Classification` `Scikit-learn`
+
+---
+
+### 2021
+
+#### [ETL of Brazilian Rainfall Records](https://github.com/angeruzzi/ETL_DadosPluviometricos)
+
+ETL pipeline for importing historical rainfall data from 1,276 Brazilian weather stations, covering records from 1970 to 2020.
+
+**Technologies and concepts:** `Python` `ETL` `APIs` `SQL` `Data Integration`
+
+#### [Analysis of Grain Production in Brazil](https://github.com/angeruzzi/DataAnalysis_ProducaoGraosBrasil)
+
+Exploratory analysis of Brazilian grain production using agricultural, meteorological, and rural financing datasets.
+
+**Technologies and concepts:** `Python` `Pandas` `Exploratory Data Analysis` `Data Visualization`
+
+#### [Agricultural Productivity Prediction](https://github.com/angeruzzi/RegressionModel_ProdutividadeAgricola)
+
+Development of a regression model for predicting peanut crop productivity from meteorological data.
+
+**Technologies and concepts:** `Python` `Regression` `Scikit-learn` `Agricultural Data`
+
+#### [Profile of Data Professionals in Brazil](https://github.com/angeruzzi/DataAnalysis_PerfilProssionalDadosBR)
+
+Exploratory analysis of a Data Hackers survey about the professional profile of people working with data in Brazil.
+
+**Technologies and concepts:** `Python` `Pandas` `Exploratory Data Analysis`
+
+## Machine Learning Competitions
+
+### [3rd Place — IV Flai Machine Learning Competition](https://github.com/angeruzzi/CompeticoesML/blob/main/4a_Flai_202106_3o_lugar.ipynb)
+
+Classification model developed to identify customer profiles for a telecommunications company.
+
+### [2nd Place — VI Flai Machine Learning Competition](https://github.com/angeruzzi/CompeticoesML/blob/main/6a_Flai_202111_2o_lugar.ipynb)
+
+Classification model developed to predict employee turnover.
+
+## Current Areas of Interest
+
+* Machine Learning products
+* Generative AI and intelligent agents
+* Natural Language Processing
+* Causal inference and synthetic data
+* Model monitoring and MLOps
+* Financial services, credit, risk, and fraud prevention
+* Scalable data and AI architectures
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/alessandroangeruzzi/) · [GitHub](https://github.com/angeruzzi)
