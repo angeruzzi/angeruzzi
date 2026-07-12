@@ -28,6 +28,16 @@ I have experience developing data and AI products, combining data science, softw
 
 `Git` `GitHub` `Docker` `GCP` `Vertex AI` `Cloud Run` `Kubernetes` `CI/CD` `MLOps`
 
+## Current Areas of Interest
+
+* Machine Learning products
+* Generative AI and intelligent agents
+* Natural Language Processing
+* Causal inference and synthetic data
+* Model monitoring and MLOps
+* Financial services, credit, risk, and fraud prevention
+* Scalable data and AI architectures
+
 ## Featured Projects
 
 ### 2026
@@ -131,16 +141,6 @@ Classification model developed to identify customer profiles for a telecommunica
 ### [2nd Place — VI Flai Machine Learning Competition](https://github.com/angeruzzi/CompeticoesML/blob/main/6a_Flai_202111_2o_lugar.ipynb)
 
 Classification model developed to predict employee turnover.
-
-## Current Areas of Interest
-
-* Machine Learning products
-* Generative AI and intelligent agents
-* Natural Language Processing
-* Causal inference and synthetic data
-* Model monitoring and MLOps
-* Financial services, credit, risk, and fraud prevention
-* Scalable data and AI architectures
 
 ## Connect with Me
 
