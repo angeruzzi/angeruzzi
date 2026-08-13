@@ -50,6 +50,16 @@ The workflow is orchestrated as a state graph with validation, conditional routi
 
 **Technologies:** `Python` `LangChain` `LangGraph` `OpenAI` `Gmail API` `WhatsApp API` `Docker`
 
+#### [Recommendation Systems with MovieLens](https://github.com/angeruzzi/recommender_system_movielens)
+
+End-to-end study of recommendation systems using the MovieLens 100K dataset, progressing from simple baselines to personalized recommendation models.
+
+The project implements a common temporal evaluation framework and compares Random and Popularity baselines, Content-Based Filtering, User-Based and Item-Based Collaborative Filtering, and Matrix Factorization implemented from scratch with NumPy and SGD.
+
+Models are evaluated using Precision@10, Recall@10, and NDCG@10. Matrix Factorization achieved the best performance among the personalized models, while the project also explores practical challenges such as sparse interactions, similarity reliability, long-tail items, and candidate filtering.
+
+**Technologies and concepts:** `Python` `NumPy` `Pandas` `Scikit-learn` `Recommendation Systems` `Content-Based Filtering` `Collaborative Filtering` `Matrix Factorization` `SGD` `Precision@K` `Recall@K` `NDCG@K`
+
 ---
 
 ### 2025
