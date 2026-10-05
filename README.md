@@ -4,7 +4,7 @@ Data Scientist and Technical Lead with a background in software engineering, mac
 
 I have experience developing data and AI products, combining data science, software engineering, cloud architecture, and business understanding to transform complex problems into scalable solutions.
 
-* Lead Data Scientist
+* Data Scientist Specialist
 * M.Sc. in Computer Science — Federal University of Uberlândia
 * B.Sc. in Computer Science — Federal University of Uberlândia
 * Background in software development, process automation, and financial systems
@@ -49,6 +49,20 @@ An intelligent agent that collects Gmail messages, analyzes them using an LLM, c
 The workflow is orchestrated as a state graph with validation, conditional routing, retries, critical-email alerts, and notification fallback.
 
 **Technologies:** `Python` `LangChain` `LangGraph` `OpenAI` `Gmail API` `WhatsApp API` `Docker`
+
+#### [Application Score and Credit Policy — Home Credit Default Risk](https://github.com/angeruzzi/home-credit-default-risk)
+
+End-to-end credit risk portfolio project using the Home Credit Default Risk dataset to estimate the probability of payment difficulty for individual loan applicants.
+
+The project integrates application data with credit bureau records, previous applications, installment payments, credit card balances, and POS/CASH loan histories, producing 325 candidate features.
+
+A traditional credit scoring approach based on Optimal Binning, Weight of Evidence, Information Value, feature selection, and Logistic Regression is compared with a LightGBM challenger under the same train, validation, and holdout framework.
+
+On a holdout sample of 46,127 applicants, the LightGBM statistical champion achieved ROC-AUC of 0.7946, Gini of 0.5892, and KS of 0.4484. Its improvement over the traditional model was also evaluated through paired bootstrap.
+
+The project additionally converts predicted probabilities into a credit score, creates A–E risk ratings, simulates approval cutoffs, analyzes the trade-off between approval rate and bad rate, and discusses calibration, interpretability, fairness, and model governance.
+
+**Technologies and concepts:** `Python` `Pandas` `NumPy` `Scikit-learn` `OptBinning` `LightGBM` `SHAP` `Credit Risk` `Application Score` `Weight of Evidence` `Information Value` `Logistic Regression` `ROC-AUC` `Gini` `KS` `Model Calibration` `Bootstrap` `Credit Policy` `Fairness` `Model Governance`
 
 #### [Recommendation Systems with MovieLens](https://github.com/angeruzzi/recommender_system_movielens)
 
