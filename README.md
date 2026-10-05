@@ -42,14 +42,6 @@ I have experience developing data and AI products, combining data science, softw
 
 ### 2026
 
-#### [AI Agent for Email Triage](https://github.com/angeruzzi/AutoVerifEmail_Langchain)
-
-An intelligent agent that collects Gmail messages, analyzes them using an LLM, classifies priority and required actions, applies configurable filters, and sends a daily digest through WhatsApp or email.
-
-The workflow is orchestrated as a state graph with validation, conditional routing, retries, critical-email alerts, and notification fallback.
-
-**Technologies:** `Python` `LangChain` `LangGraph` `OpenAI` `Gmail API` `WhatsApp API` `Docker`
-
 #### [Application Score and Credit Policy — Home Credit Default Risk](https://github.com/angeruzzi/home-credit-default-risk)
 
 End-to-end credit risk portfolio project using the Home Credit Default Risk dataset to estimate the probability of payment difficulty for individual loan applicants.
@@ -63,6 +55,14 @@ On a holdout sample of 46,127 applicants, the LightGBM statistical champion achi
 The project additionally converts predicted probabilities into a credit score, creates A–E risk ratings, simulates approval cutoffs, analyzes the trade-off between approval rate and bad rate, and discusses calibration, interpretability, fairness, and model governance.
 
 **Technologies and concepts:** `Python` `Pandas` `NumPy` `Scikit-learn` `OptBinning` `LightGBM` `SHAP` `Credit Risk` `Application Score` `Weight of Evidence` `Information Value` `Logistic Regression` `ROC-AUC` `Gini` `KS` `Model Calibration` `Bootstrap` `Credit Policy` `Fairness` `Model Governance`
+
+#### [AI Agent for Email Triage](https://github.com/angeruzzi/AutoVerifEmail_Langchain)
+
+An intelligent agent that collects Gmail messages, analyzes them using an LLM, classifies priority and required actions, applies configurable filters, and sends a daily digest through WhatsApp or email.
+
+The workflow is orchestrated as a state graph with validation, conditional routing, retries, critical-email alerts, and notification fallback.
+
+**Technologies:** `Python` `LangChain` `LangGraph` `OpenAI` `Gmail API` `WhatsApp API` `Docker`
 
 #### [Recommendation Systems with MovieLens](https://github.com/angeruzzi/recommender_system_movielens)
 
